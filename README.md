@@ -5,8 +5,11 @@ I found it very useful with my musical work flow: record ideas on the iPad under
 import the best in my favourite DAW, edit them, render the result, send it to my band mates, and so on.
 
 ### Requirements
-Works on Mac Os X: tested with vanilla 1.8.7 Ruby provided natively by Lion OS X&trade; as well as with (RVM provided) 1.9.3 Ruby, on Lion OS X&trade;. 
-Works on Windows: tested Microsoft Win7&trade; with Ruby 1.9.3 [http://rubyinstaller.org/downloads/](http://rubyinstaller.org/downloads/).
+
+Works on Mac Os X: tested with vanilla 1.8.7 Ruby, provided natively by Lion OS X&trade; as well as with (RVM provided) 1.9.3 Ruby, on Lion OS X&trade;. 
+
+Works on Windows: tested on a Microsoft Win7&trade; box using Ruby 1.9.3 [http://rubyinstaller.org/downloads/](http://rubyinstaller.org/downloads/).
+
 Works on Linux: tested on a Ubuntu 12.10 server: Ruby 1.9.3.
 
 ### Usage
